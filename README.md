@@ -5,3 +5,7 @@
 * Project builds successfully.
 * App runs with `expo modules` installed, but crashes when `expo-updates` is installed. 
 * The crash happens on `Release` build only. Debug runs fine.
+
+### To run the project
+* `yarn install`
+* `npx pod-install`
