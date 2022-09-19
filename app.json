@@ -1,4 +1,9 @@
 {
   "name": "rn70expoupdates",
-  "displayName": "rn70expoupdates"
+  "displayName": "rn70expoupdates",
+  "expo": {
+    "name": "rn70expoupdates",
+    "slug": "rn70expoupdates",
+    "sdkVersion": "45.0.0"
+  }
 }
