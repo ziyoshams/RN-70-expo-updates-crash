@@ -2,10 +2,10 @@
 * Project is created with `npx react-native init`
 * Uses `expo modules` with `expo-updates`
 * `expo modules` is installed with `npx install-expo-modules@latest`
-* Project builds successfully.
-* App runs with `expo modules` installed, but crashes when `expo-updates` is installed. 
-* The crash happens on `Release` build only. Debug runs fine.
 
 ### To run the project
-* `yarn install`
-* `npx pod-install`
+* iOS
+  * `yarn install`
+  * `npx pod-install`
+* Android
+  * `cd android && ./gradlew assembleDebug`
